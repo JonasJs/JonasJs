@@ -4,7 +4,7 @@
 <br/><br/>
 
 <img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="42px"> <strong>Amante do Javascript,<br/>Apaixonado por educação e tecnologia!</strong>
-<br/>
+<br/><br/>
 
 
 <div>
