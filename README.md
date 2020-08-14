@@ -3,7 +3,7 @@
 [![Linkedin: jonas-alves-9163a5136](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-alves-9163a5136/)](https://www.linkedin.com/in/jonas-alves-9163a5136/)
 <br/><br/>
 
-<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="42px"> <p>Amante do Javascript,<br/>Apaixonado por educação e tecnologia!</p>
+<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="42px"> <strong>Amante do Javascript,<br/>Apaixonado por educação e tecnologia!</strong>
 
 
 <div>
