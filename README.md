@@ -24,8 +24,10 @@
   <img src="https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png" width="26px" alt="Webpack" title="Webpack"/>
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jonasjs&hide=issues&count_private=true&show_icons=true&count_private=true&include_all_commits=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjs&layout=compact&card_width=220" />
+<br/>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jonasjs&hide=issues&count_private=true&show_icons=true&count_private=true&include_all_commits=true" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjs&layout=compact&card_width=220" />
 
 <!--
 **JonasJs/JonasJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
