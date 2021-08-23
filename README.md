@@ -39,7 +39,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjs&layout=compact" /> 
+  <img width="66%" src='https://svgshare.com/i/_Tx.svg' title='' />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjs&layout=compact" /> 
 </p>
 
 <!--
