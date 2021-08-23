@@ -27,9 +27,20 @@
 
 <br/>
 
+<p align="left">
+  <img 
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=jonasjs&count_private=true&show_icons=true&count_private=true&include_all_commits=true"
+  />  
+  <img 
+    width="48%"
+    src="http://github-readme-streak-stats.herokuapp.com?user=jonasjs&border=e4e2e2" />  
+ 
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jonasjs&hide=issues&count_private=true&show_icons=true&count_private=true&include_all_commits=true" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjs&layout=compact&card_width=250" />
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=jonasjs&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjs&layout=compact" /> 
+</p>
 
 <!--
 **JonasJs/JonasJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
