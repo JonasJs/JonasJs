@@ -29,18 +29,18 @@
 
 <p align="left">
   <img 
-    width="48%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api?username=jonasjs&count_private=true&show_icons=true&count_private=true&include_all_commits=true"
   />  
   <img 
-    width="48%"
+    width="49%"
     src="http://github-readme-streak-stats.herokuapp.com?user=jonasjs&border=e4e2e2" />  
  
 </p>
 
 <p align="left">
-  <img width="66%" src='https://svgshare.com/i/_Tx.svg' title='' />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjs&layout=compact" /> 
+  <img width="63%" src='https://svgshare.com/i/_Tx.svg' title='' />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjs&layout=compact" /> 
 </p>
 
 <!--
