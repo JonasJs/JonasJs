@@ -26,7 +26,6 @@
 </div>
 
 <br/>
-
 <p align="left">
   <img 
     width="49%"
